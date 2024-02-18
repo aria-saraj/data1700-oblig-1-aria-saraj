@@ -4,7 +4,7 @@ Oslomet brukernavn: s333550
 
 Github brukernavn: aria-saraj
 
-Github repo URL: https://github.com/OsloMet-web/data1700-aria-saraj-oblig1.git
+Github repo URL: https://github.com/aria-saraj/data1700-oblig-1-aria-saraj.git
 
 Fullt navn Aria Saraj
 
