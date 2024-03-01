@@ -13,6 +13,3 @@ Fullt navn Aria Saraj
 For oblig 1; the goal is to be able to make an html and js file that can register the input values and
 then make the summary for the order.
 Also make a button that can delete the order. 
-
-External link:
-https://aria-saraj.github.io/oblig-side/? 
